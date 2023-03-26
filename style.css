@@ -1,0 +1,61 @@
+.profilecol{
+    text-align: center;
+    margin-top: 2rem;
+    
+}
+.profilepic{
+    width:25%;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #7286D3;
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+h5{
+    font-family: 'Roboto Mono', monospace;
+}
+.socialcol{
+    margin-top: 1rem;
+    background-color: #7286D3;
+    font-family: 'Roboto Mono', monospace;
+    color:white;
+    font-weight:700;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.btn-social{
+    font-weight: 600;
+    margin-right: 1rem;
+}
+.navbar-custom{
+    background-color: #7286D3;
+    
+}
+
+.navbar-nav{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    
+}
+
+.nav-link{
+    color:white;
+    font-weight: 1000;
+    padding-right: 5rem;
+    
+}
+.active{
+   border-style: solid;
+   border-radius: 25%;
+   border-color: white;
+   
+   
+   
+   
+}

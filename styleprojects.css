@@ -1,0 +1,30 @@
+.header{
+    animation:bounce;
+    animation-duration: 10s;
+}
+.navbar-custom{
+    background-color: #7286D3;
+    
+}
+
+.navbar-nav{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    
+}
+
+.nav-link{
+    color:white;
+    font-weight: 1000;
+    padding-right: 5rem;
+    
+}
+.active{
+   border-style: solid;
+   border-radius: 25%;
+   border-color: white;
+   
+   
+   
+   
+}
